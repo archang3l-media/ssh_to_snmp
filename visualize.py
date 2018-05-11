@@ -542,7 +542,7 @@ if __name__ == "__main__":
 	args = anfangssachen()
 	if args.test == True:
 		logging.basicConfig(format='%(asctime)s - %(message)s',level=logging.DEBUG)
-		config = configuration.read_config(configuration)
+		config = configuration.add_config(configuration)
 		configuration.add_config(config)
 		config_data = configuration.gib_config_aus(configuration)
 	else:
