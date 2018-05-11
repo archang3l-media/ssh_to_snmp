@@ -1,0 +1,6 @@
+bidict >= 0.13.0
+paramiko >= 2.1.1
+regex >= 2017.01.17
+requests >= 2.13.0
+### Unused ###
+# pyhpecw7 >= 0.0.9

@@ -1,2 +1,3 @@
-# ssh_to_snmp
-Python Script to utilize SSH for network monitoring
+Update:
+
+settings.conf.demo zu settings.conf umbenennen und Username/Passwort eintragen

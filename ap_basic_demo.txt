@@ -1,0 +1,48 @@
+Total Number of APs configured           : 35
+Total Number of configured APs connected : 35
+Total Number of auto APs connected       : 0
+Total Number of APs connected            : 35
+Maximum AP capacity                      : 1024
+Remaining AP capacity                    : 989
+                                 AP Profiles
+State : I = Idle,   J = Join, JA = JoinAck,   IL = ImageLoad
+        C = Config, R = Run,  KU = KeyUpdate, KC = KeyCfm
+        M = Master, B = Backup
+--------------------------------------------------------------------------------
+AP Name                          State Model              Serial-ID
+--------------------------------------------------------------------------------
+test_ap01	                       R/M   MSM460-WW	        Test_0000
+test_ap02	                       R/M	 MSM460-WW	        Test_0001
+test_ap03	                       R/M	 MSM460-WW	        Test_0002
+test_ap04	                       I	   MSM460-WW	        Test_0003
+test_ap05	                       R/B	 MSM460-WW	        Test_0004
+test_ap06	                       R/M	 MSM460-WW	        Test_0005
+test_ap07	                       R/M	 MSM460-WW	        Test_0006
+test_ap08	                       R/M	 MSM460-WW	        Test_0007
+test_ap09	                       R/M	 MSM460-WW	        Test_0008
+test_ap10	                       R/M	 MSM460-WW	        Test_0009
+test_ap11	                       R/M	 MSM460-WW	        Test_0010
+test_ap12	                       R/M	 MSM460-WW	        Test_0011
+test_ap13	                       R/M	 MSM460-WW	        Test_0012
+test_ap14	                       R/M	 MSM460-WW	        Test_0013
+test_ap15	                       R/B	 525-WW	            Test_0014
+test_ap16	                       R/B	 525-WW	            Test_0015
+test_ap17	                       R/B	 525-WW	            Test_0016
+test_ap18	                       I	   525-WW	            Test_0017
+test_ap19	                       R/B	 525-WW	            Test_0018
+test_ap20	                       I	   525-WW	            Test_0019
+test_ap21	                       R/B	 525-WW	            Test_0020
+test_ap22	                       R/M	 525-WW	            Test_0021
+test_ap23	                       R/B	 525-WW	            Test_0022
+test_ap24	                       R/B	 525-WW	            Test_0023
+test_ap25	                       R/B	 525-WW	            Test_0024
+test_ap26	                       R/B	 525-WW	            Test_0025
+test_ap27	                       I	   525-WW	            Test_0026
+test_ap28	                       R/B	 525-WW	            Test_0027
+test_ap29	                       R/B	 525-WW	            Test_0028
+test_ap30	                       R/B	 525-WW	            Test_0029
+test_ap31	                       R/B	 525-WW	            Test_0030
+test_ap32	                       R/B	 525-WW	            Test_0031
+test_ap33	                       I	   525-WW	            Test_0032
+test_ap34	                       R/B	 525-WW	            Test_0033
+test_ap35	                       R/B	 525-WW	            Test_0034

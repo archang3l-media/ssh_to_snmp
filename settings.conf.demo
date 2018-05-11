@@ -1,0 +1,11 @@
+[login]
+username = $username$
+password = $password$
+[addresses]
+config_ip_one = $ip or hostname$
+config_ip_two = $ip or hostname$
+[logging]
+hostname = $ip or hostname$
+port = 1234
+[folders]
+log_dir = $log_dir$
