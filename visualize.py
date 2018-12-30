@@ -117,7 +117,7 @@ class Wlan:
 	def gib_controller_namen_aus(self):
 		return self.name
 
-class Netzgeraet:
+class Netzgerät:
 	def __init__(self, ip, mac=None):
 		self.ip = ip
 		self.mac = mac
